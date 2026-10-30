@@ -56,7 +56,7 @@ Use the language selected for that trip; the skill is bilingual but output langu
 
 Use the roadbook as an execution tool, not a transcript of the planning conversation. Separate the **current departure version** from the **evidence/archive record**.
 
-- The current roadbook shows only the effective itinerary, active bookings, actionable deadlines and genuinely useful fallback choices. Do not leave obsolete hotel comparisons, cancelled options, prior route debates, or superseded day counts in the main reading flow. Keep those, when needed for refund or audit, in a linked offline booking/change record.
+- The current roadbook shows only the effective itinerary, active bookings, actionable deadlines and genuinely useful fallback choices. Do not leave obsolete hotel comparisons, cancelled options, prior route debates, superseded day counts, or the reasoning that led to a settled choice (for example, “four lakefront nights are enough, so no need for another lake stay”) in the main reading flow. Keep that history, when needed for refund or audit, in a linked offline booking/change record.
 - Make every travel day a visually distinct, self-contained card or section. It must put the day/date, base hotel, main sequence, booked timed commitments, driving load, food/parking essentials and a concise Plan B together; the reader should not need to cross-reference a separate discussion to execute the day.
 - Give each day one representative image of that day's actual signature landscape or experience. Use the image to orient the reader, not as generic decoration; match it to the day's region/activity and provide a clear source/credit where required.
 - Show the main plan first. Then list a small set of optional alternatives in explicit recommendation order (for example `P1 最推荐`, `P2 天气好再选`, `P3 室内／体力不足备选`). Do not present a long unranked attraction dump. Include hiking, hotel facilities, shopping or family-friendly activities only on the relevant day and only when they suit the party's time, weather and driving tolerance.
@@ -65,7 +65,7 @@ Use the roadbook as an execution tool, not a transcript of the planning conversa
 - Provide a visible deadline panel in the HTML/mobile version for cancellation, modification, payment, visa/entry authorization, insurance certificate, activity release dates and refund follow-up. Create calendar/automation reminders only with the user's permission, but always record the deadline in the roadbook.
 - Before final delivery, perform a reader test: from the first screen, a family member should be able to identify where they sleep tonight, the next non-negotiable time, where to drive/park, the best backup, and any deadline that could cost money.
 
-出发版不是规划聊天记录：正文只保留当前有效方案、已订项目、需要行动的截止日和少量真正有用的备选；旧酒店比较、取消订单、路线辩论和已被替换的天数进入离线证据／变更记录。每天必须是一张独立可执行卡：日期、住宿、主线、定时预约、车程、餐饮／停车要点和 Plan B 放在一起，并配当天真实特色风景或体验图。备选按推荐优先级列出，不做无排序景点堆砌。总览必须有当前已订／待办、总费用和显眼截止日；交付前从旅客视角检查能否一屏知道今晚住哪、下一项硬约束、怎么到／停车、下雨怎么办和会损失钱的截止日。
+出发版不是规划聊天记录：正文只保留当前有效方案、已订项目、需要行动的截止日和少量真正有用的备选；旧酒店比较、取消订单、路线辩论、已被替换的天数，以及“为什么已经住够／不再需要某体验”这类决策推理都进入离线证据／变更记录。每天必须是一张独立可执行卡：日期、住宿、主线、定时预约、车程、餐饮／停车要点和 Plan B 放在一起，并配当天真实特色风景或体验图。备选按推荐优先级列出，不做无排序景点堆砌。总览必须有当前已订／待办、总费用和显眼截止日；交付前从旅客视角检查能否一屏知道今晚住哪、下一项硬约束、怎么到／停车、下雨怎么办和会损失钱的截止日。
 
 ## Safety and accuracy｜安全与准确性
 
